@@ -1,0 +1,12 @@
+Material,Element,Min_wt,Max_wt
+Aluminium Can,Al,94.5,97.5
+Aluminium Can,Mg,1.0,2.5
+Aluminium Can,Mn,0.7,1.5
+Aluminium Can,Fe,0.3,0.7
+Aluminium Can,Si,0.2,0.4
+Aluminium Can,Cu,0.1,0.3
+PCB,Cu,10,27
+PCB,Al,2,8
+PCB,Fe,1,8
+PCB,Sn,1,6
+PCB,Pb,1,4
